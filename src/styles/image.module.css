@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  z-index: 0;
+  position: relative;
+}
+
+.imagen {
+  background-image: url('https://www.xtrafondos.com/descargar.php?id=5846&resolucion=3840x2160');
+  background-size: cover;
+  background-position: center;
+  width: 100vw;
+  height: 100vh;
+}
